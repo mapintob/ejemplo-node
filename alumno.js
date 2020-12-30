@@ -11,4 +11,4 @@ class Alumno{
     }
 }
 
-module.exports = config;
+module.exports = Alumno;
